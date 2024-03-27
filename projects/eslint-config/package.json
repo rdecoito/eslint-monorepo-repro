@@ -1,0 +1,15 @@
+{
+	"name": "eslint-config",
+	"version": "0.0.1",
+	"private": false,
+	"type": "module",
+	"main": "index.js",
+	"scripts": {},
+	"dependencies": {
+		"eslint": "~8.57.0",
+		"@eslint/js": "~8.57.0",
+		"typescript-eslint": "~7.4.0",
+		"eslint-config-prettier": "~9.1.0",
+		"typescript": "~5.4.3"
+	}
+}
